@@ -3,7 +3,7 @@ This is for testing purposes only.
 
 I AM NOT RESPONSIBLE FOR ANY DAMAGE THIS CAUSES
 
-The computer_killers folders only work offline, i think.
+Some of the html's don't work on websites, i think.
 
 If something doesn't work, go discussions first please.
 

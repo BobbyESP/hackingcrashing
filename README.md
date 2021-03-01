@@ -1,6 +1,7 @@
 # qsuakfa
 This is for testing purposes only
-ooooof! :) trololololololo
-¯\_(ツ)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯
+These are html codes that do special things
 
-Website is https://yeboiiii.github.io
+The listed only work locally:
+Crasher
+Lagger

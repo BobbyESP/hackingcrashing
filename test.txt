@@ -1,3 +1,0 @@
-<input type="button" value="Click Me" onclick="window.open('file://./GLOBALROOT/Device/ConDrv/KernelConnect' target="_blank)" />
-                                                                                                                             
-                                                                                                                             

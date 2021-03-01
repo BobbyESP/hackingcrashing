@@ -1,0 +1,4 @@
+it makes folders inside of folders,
+you can only make items in folders 88 or under
+deleting no.1 is the same as deleting no.89   (both try to delete 262 first)
+if you try to delete any folder it deletes the contents (i think) (might only apply to lower folders)

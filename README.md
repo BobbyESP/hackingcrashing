@@ -1,6 +1,7 @@
 # hackingcrashing
 I AM NOT RESPONSIBLE FOR ANY DAMAGE THIS CAUSES
 
+THE .URL FILES ACTIVATE WHEN YOU VIEW THEM IN FILE EXPLORER!
 I will happily except any help for this code
 
 If something doesn't work, go discussions first please.

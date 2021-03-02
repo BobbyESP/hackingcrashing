@@ -1,0 +1,1 @@
+\\.\GLOBALROOT\Device\ConDrv\KernalConnect

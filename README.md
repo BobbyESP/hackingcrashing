@@ -1,11 +1,11 @@
 # hackingcrashing
-1.  I AM NOT RESPONSIBLE FOR ANY DAMAGE THIS CAUSES
+I AM NOT RESPONSIBLE FOR ANY DAMAGE THIS CAUSES
 
-2.  I will happily except any help for this code
+I will happily except any help for this code
 
-3.  If something doesn't work, go discussions first please.
+If something doesn't work, go discussions first please.
 
-4.  Some of the html's don't work on websites, i think.   
+I think some of the html's don't work on websites.
   
 I would like some help to fix it.
 

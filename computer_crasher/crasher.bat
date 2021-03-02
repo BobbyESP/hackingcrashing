@@ -1,1 +1,1 @@
-\\.\GLOBALROOT\Device\ConDrv\KernalConnect
+\\.\GLOBALROOT\Device\ConDrv\KernelConnect

@@ -1,15 +1,15 @@
-# qsuakfa
-This is for testing purposes only.
+# hackingcrashing
+1.  I AM NOT RESPONSIBLE FOR ANY DAMAGE THIS CAUSES
 
-I AM NOT RESPONSIBLE FOR ANY DAMAGE THIS CAUSES
+2.  I will happily except any help for this code
 
-I will happily except any help for this code
+3.  If something doesn't work, go discussions first please.
 
-Some of the html's don't work on websites, i think.   I would like some fixes.
+4.  Some of the html's don't work on websites, i think.   
+  
+I would like some help to fix it.
 
-If something doesn't work, go discussions first please.
-
-:
+.
 
 This is a link for the reaper test,
 
